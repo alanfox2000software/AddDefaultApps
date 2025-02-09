@@ -92,6 +92,9 @@ Windows Registry Editor Version 5.00
 ".tex"="Notepad++_file"
 ".sql"="Notepad++_file"
 ".mak"="Notepad++_file"
+".log"="Notepad++_file"
+".nfo"="Notepad++_file"
+".txt"="Notepad++_file"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\RegisteredApplications]
 "Notepad++"="SOFTWARE\\Notepad++\\Capabilities"
