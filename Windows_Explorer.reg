@@ -17,6 +17,7 @@ Windows Registry Editor Version 5.00
 ".tbz2"="CompressedFolder"
 ".gz"="CompressedFolder"
 ".tgz"="CompressedFolder"
+".cab"="CABFolder"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\RegisteredApplications]
 "Explorer"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Capabilities"
