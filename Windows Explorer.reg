@@ -2,6 +2,21 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Capabilities\FileAssociations]
 ".iso"="Windows.IsoFile"
+".zip"="CompressedFolder"
+".rar"="CompressedFolder"
+".txz"="CompressedFolder"
+".tar"="CompressedFolder"
+".bz2"="CompressedFolder"
+".zst"="CompressedFolder"
+".xz"="CompressedFolder"
+".7z"="CompressedFolder"
+".vhd"="Windows.VhdFile"
+".vhdx"="Windows.VhdFile"
+".vhdpmem"="Windows.VhdPmemFile"
+".tzst"="CompressedFolder"
+".tbz2"="CompressedFolder"
+".gz"="CompressedFolder"
+".tgz"="CompressedFolder"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\RegisteredApplications]
 "Explorer"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Capabilities"
