@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Capabilities\FileAssociations]
+".iso"="Windows.IsoFile"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\RegisteredApplications]
+"Explorer"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Capabilities"
