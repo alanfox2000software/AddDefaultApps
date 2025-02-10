@@ -1,7 +1,6 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Capabilities\FileAssociations]
-".iso"="Windows.IsoFile"
 ".zip"="CompressedFolder"
 ".rar"="CompressedFolder"
 ".txz"="CompressedFolder"

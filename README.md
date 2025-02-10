@@ -10,7 +10,7 @@ import-module ntobjectmanager;sc.exe start trustedinstaller;$p = Get-NtProcess T
 ```
 In the Command Prompt window, type
 ```cmd
-regedit /s <path>\Windows_Explorer.reg
+regedit /s <path>\Explorer.reg
 ```
 
 Now you can make Explorer open .rar, .bz2, .7z, etc. If you had set 7-Zip or WinRAR as the default opener, you can undo the changes.
