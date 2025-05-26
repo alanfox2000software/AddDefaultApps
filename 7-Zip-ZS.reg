@@ -749,7 +749,7 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip-Zstandard.zstd\shell\open]
 @=""
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip-Zstandard.zst\shell\open\command]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\7-Zip-Zstandard.zstd\shell\open\command]
 @="\"C:\\Program Files\\7-Zip-Zstandard\\7zFM.exe\" \"%1\""
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\7-Zip-Zstandard\Capabilities]
