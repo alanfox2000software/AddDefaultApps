@@ -19,4 +19,4 @@ Windows Registry Editor Version 5.00
 ".cab"="CABFolder"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\RegisteredApplications]
-"Explorer"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Capabilities"
+"File Explorer"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Capabilities"
