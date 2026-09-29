@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\RegisteredApplications]
+"Windows Disc Image Burner"="SOFTWARE\\Microsoft\\Windows\\Notepad\\Capabilities"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Notepad\Capabilities\FileAssociations]
+".ini"="inifile"
+".log"="logfile"
+".scp"="scpfile"
+".txt"="txtfile"
+".wtx"="wtxfile"

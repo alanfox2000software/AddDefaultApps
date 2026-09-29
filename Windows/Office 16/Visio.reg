@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\RegisteredApplications]
+"Visio.Application.16"="Software\\Clients\\Drawing\\Microsoft Visio\\Capabilities"

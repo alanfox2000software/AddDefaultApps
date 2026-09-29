@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\RegisteredApplications]
+"Outlook.Application.15"="Software\\Clients\\Mail\\Microsoft Outlook\\Capabilities"

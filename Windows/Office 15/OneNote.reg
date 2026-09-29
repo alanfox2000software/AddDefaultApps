@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\RegisteredApplications]
+"OneNote.Application.15"="Software\\Clients\\Note Taking\\Microsoft OneNote\\15.0\\Capabilities"
+

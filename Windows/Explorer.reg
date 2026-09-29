@@ -17,5 +17,10 @@ Windows Registry Editor Version 5.00
 ".tgz"="CompressedFolder"
 ".cab"="CABFolder"
 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Capabilities\UrlAssociations]
+"Explorer.BurnSelection"="Explorer.AssocActionId.BurnSelection"
+"Explorer.EraseDisc"="Explorer.AssocActionId.EraseDisc"
+"Explorer.ZipSelection"="Explorer.AssocActionId.ZipSelection"
+
 [HKEY_LOCAL_MACHINE\SOFTWARE\RegisteredApplications]
 "File Explorer"="SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Capabilities"
